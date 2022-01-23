@@ -89,7 +89,7 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Home Page</title>
+      <title>Evan Rubel</title>
       <h1 style={headingStyles}>
         Hi there, I'm Evan!
         {/* <br />

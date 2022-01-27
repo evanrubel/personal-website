@@ -136,6 +136,7 @@ const IndexPage = () => {
           </li>
         ))}
       </ul>
+      <footer>Updated Jan. 2022</footer>
     </main>
   );
 };

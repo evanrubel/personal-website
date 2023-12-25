@@ -1,0 +1,12 @@
+{
+    "index": {
+      "title": "Evan Rubel",
+      "theme": {
+        "breadcrumb": false,
+        "footer": true,
+        "sidebar": false,
+        "toc": false,
+        "pagination": true
+      }
+    }
+  }
